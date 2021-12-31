@@ -1,5 +1,5 @@
 ---
-title: Sample Page
+title: Sample Page2
 date: 2021-06-24
 ---
 
